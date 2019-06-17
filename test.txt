@@ -6,3 +6,4 @@ Prueba de git pull
 Prueba de Master
 Rama prueba solamente
 Prueba de Master 2
+Rama prueba 2 Solamente
