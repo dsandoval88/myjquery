@@ -3,4 +3,8 @@ Prueba #2
 Prueba #3
 Prueba de remotos
 Prueba de git pull
+<<<<<<< HEAD
 Prueba de Master
+=======
+Rama prueba solamente
+>>>>>>> prueba
